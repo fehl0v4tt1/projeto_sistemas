@@ -6,11 +6,11 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 * [Exemplo de Documento de Requisitos - JARVIS.pdf](https://github.com/user-attachments/files/17388495/Exemplo.de.Documento.de.Requisitos.-.JARVIS.pdf)
 
 # Integrantes do Grupo
-1) 
-2) 
-3) 
-4) 
-5) 
+1) Fernanda Lovatti
+2) Brenda Torquato
+3) Julya Verly
+4) Raquel Lozório
+5) Kamilly Ribeiro
 
 # Documento de Requisitos
 
